@@ -1,0 +1,7 @@
+vendor
+coverage
+composer.lock
+.phpunit.*
+.idea
+.github
+phpunit.xml
